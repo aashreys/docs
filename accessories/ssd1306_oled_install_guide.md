@@ -1,6 +1,6 @@
 # SSD1306 OLED Install Guide
 
-If you purchased the Nullbits OLED, or a SSD1306 OLED, follow this guide to install it on your device.
+If you purchased the [Nullbits OLED](https://www.amazon.com/Display-Mechanical-Keyboards-Arduino-3-3V-5V/dp/B08KLHD2Z7), or a SSD1306 OLED, follow this guide to install it on your Nibble or Tidbit.
 
 ## For Tidbit
 
@@ -12,3 +12,6 @@ If you purchased the Nullbits OLED, or a SSD1306 OLED, follow this guide to inst
 | 4. Solder the OLED. Be careful not to damage the display while soldering. | |
 | 5. Flash the [OLED keymap firmware](https://github.com/nullbitsco/tidbit/releases/download/v1.5/nullbitsco_tidbit_oled.hex) for the Tidbit (flashing instructions can be found [here](https://github.com/nullbitsco/docs/blob/main/firmware/firmware_flashing.md)). | |
 | 6. If installed correctly, the OLED will show the Nullbits/Tidbit logo when plugged in. | ![tidbit-oled-working](https://user-images.githubusercontent.com/6137765/125805368-d5f325c5-ef39-4e8b-bd2d-b73182ff3ae6.jpg) |
+
+## For Nibble
+Coming soon!
